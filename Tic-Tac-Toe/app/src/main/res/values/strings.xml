@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="button">Reset</string>
+    <string name="circleWins">Congrats! Circle wins!</string>
+    <string name="xWins">Wonderful! X wins!</string>
+    <string name="duel">Nobody wins. Press reset to restart.</string>
+    <string name="xTurn">X player\'s turn.</string>
+    <string name="circleTurn">Circle player\'s turn.</string>
+    <string name="xFirst">X goes first.</string>
+    <string name="circleFirst">Circle goes first.</string>
+</resources>
